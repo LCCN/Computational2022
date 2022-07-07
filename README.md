@@ -1,2 +1,2 @@
-# Computational2022
-pruebas para paper computacional 2022
+# Corticon_2022
+interactive graphics
